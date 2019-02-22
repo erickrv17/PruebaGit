@@ -40,7 +40,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Clase2.cs" />
     <Compile Include="MiClase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
